@@ -114,5 +114,29 @@ body {
   
   
   
+  @media (max-width: 400px) {
+    #container, 
+    #conversion {
+      width: 21em;
+    }
+    
+    #length, #volume, #mass {
+      width: 17em;
+    }
+    
+    h1 {
+      font-size: 1.5rem
+    }
+    h3 {
+      font-size: 1rem
+    }
+    
+    p {
+      font-size: 0.8rem;
+    }
+    input {
+      font-size: 2rem
+    }
+  }
   
   
