@@ -117,11 +117,12 @@ body {
   @media (max-width: 400px) {
     #container, 
     #conversion {
-      width: 21em;
+      width: 22.5em;
     }
+
     
     #length, #volume, #mass {
-      width: 17em;
+      width: 15em;
     }
     
     h1 {
